@@ -17,10 +17,12 @@ A terminal-based implementation of the classic Hand Cricket game built with Pyth
 ```bash
 # Clone the repository
 git clone https://github.com/bchethan/python-hand-cricket-game.git
-
+```
+```bash
 # Navigate to the directory
 cd python-hand-cricket-game
-
+```
+```bash
 # Run the game
 python hand_cricket.py
 ```
