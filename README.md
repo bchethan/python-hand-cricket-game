@@ -14,15 +14,15 @@ A terminal-based implementation of the classic Hand Cricket game built with Pyth
 
 ## ⚡ Quick Start
 
-```bash
 # Clone the repository
+```bash
 git clone https://github.com/bchethan/python-hand-cricket-game.git
 ```
-```bash
 # Navigate to the directory
+```bash
 cd python-hand-cricket-game
 ```
-```bash
 # Run the game
+```bash
 python hand_cricket.py
 ```
